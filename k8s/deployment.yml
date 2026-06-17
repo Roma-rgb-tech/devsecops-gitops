@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: app
-          image: ghcr.io/roma-rgb-tech/devsecops-pipeline-demo:ec56f7e068e5af9ec6af30d8bd5690e2b955b23e
+          image: ghcr.io/roma-rgb-tech/devsecops-pipeline-demo:ee5f0c817a82db78c1613fc8e1abaeb376925cf4
           ports:
             - containerPort: 8000
