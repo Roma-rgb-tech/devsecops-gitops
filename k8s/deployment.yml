@@ -18,6 +18,3 @@ spec:
           image: ghcr.io/roma-rgb-tech/devsecops-pipeline-demo:latest
           ports:
             - containerPort: 8000
-          envFrom:
-            - configMapRef:
-                name: app-config
